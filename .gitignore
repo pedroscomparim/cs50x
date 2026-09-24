@@ -1,0 +1,8 @@
+*
+!*/
+!*.*
+!Makefile
+!LICENSE
+*.o
+a.out
+.DS_Store
