@@ -9,6 +9,7 @@ Started: September 2026
 ## Progress
 
 - Week 1: C
+- Week 2: Arrays
 
 ## Note
 
