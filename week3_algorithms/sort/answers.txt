@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: It was instant on sorted data (~0.00s) but much slower on random and reversed. Bubble sort barely has to do anything when things are already in order, so that gap gives it away.
+
+sort2 uses: merge sort
+
+How do you know?: It stayed fast (~0.01s) no matter the input. Merge sort always splits and merges the same way regardless of order, so it doesn't get slower like the others.
+
+sort3 uses: selection sort
+
+How do you know?: It was slow across all three inputs, even sorted. It always scans the whole array to find the minimum, so sorted data doesn't help it at all like it does sort1.
