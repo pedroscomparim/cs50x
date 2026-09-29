@@ -12,6 +12,7 @@ Started: September 2026
 - Week 2: Arrays
 - Week 3: Algorithms
 - Week 4: Memory
+- Week 5: Data Structures
 
 ## Note
 
